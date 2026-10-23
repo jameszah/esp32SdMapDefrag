@@ -1,5 +1,7 @@
 // esp32SdMapDefrag.ino - SD card map, file pieces, defrag, delete and format, on a web page.
 // https://github.com/jameszah/esp32SdMapDefrag
+// James Zahary Oct 23, 2026
+
 // The work is in SdTools.cpp; this connects to WiFi and starts it.
 //
 // Board: AI Thinker ESP32-CAM, or any ESP32 with an SD card on the SD_MMC pins (1-bit mode).
